@@ -1,0 +1,36 @@
+.nav-bar{
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: black;
+}
+
+.nav-bar h2{
+    font-size: 40px;
+    color: white;
+}
+.nav-bag{
+    display: flex;
+
+    
+}
+
+.nav-bag span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    background-color: yellow;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: black;
+    margin-left: -5px;
+    font-size: 14px;
+    font-weight: 700;
+}
